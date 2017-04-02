@@ -90,6 +90,11 @@ sudo apt-get install libxkbcommon-dev
 
 ```
 
+##### Fedora:
+```yml
+sudo dnf install libxkbcommon-devel libXtst-devel libxkbcommon-x11-devel
+```
+
 ## Installation:
 ```
 go get github.com/go-vgo/robotgo
